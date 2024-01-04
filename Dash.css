@@ -1,0 +1,31 @@
+/* Dash.css */
+
+/* Update the existing styles */
+.aaa {
+    display: flex;
+    flex-direction: column; /* Set the flex direction to column */
+    align-items: flex-start; /* Align items to the start */
+    gap: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    list-style: none;
+    padding-left: 0; /* Reset padding for the list */
+  }
+  
+  /* Style for individual list items */
+  .aaa li {
+    margin: 0; /* Remove default margin */
+  }
+  
+  /* Style for links */
+  .aaa li a {
+    text-decoration: none;
+    color: #4CAF50;
+  }
+  
+  /* Hover effect */
+  .aaa li a:hover {
+    color: #555;
+    font-weight: bold;
+  }
+  

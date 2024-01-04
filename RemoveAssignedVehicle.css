@@ -1,0 +1,43 @@
+/* RemoveAssignedVehicle.css */
+
+.remove-assigned-vehicle-form {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    border-radius: 15px;
+  }
+  
+  .vehicle-dropdown {
+    margin-bottom: 20px;
+  }
+  
+  .vehicle-dropdown label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .vehicle-dropdown select {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
+  button[type='submit'] {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  button[type='submit']:hover {
+    background-color: #45a049;
+    border-radius: 15px;
+  }
+  

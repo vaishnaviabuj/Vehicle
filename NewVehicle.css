@@ -1,0 +1,40 @@
+/* NewVehicle.css */
+
+.new-vehicle-form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    border-radius: 15px; 
+  }
+  
+  .new-vehicle-form h2 {
+    margin-bottom: 20px;
+  }
+  
+  .new-vehicle-form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .new-vehicle-form input[type='text'] {
+    width: calc(100% - 20px);
+    padding: 8px;
+    margin-top: 4px;
+    margin-bottom: 12px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .new-vehicle-form button {
+    padding: 10px 20px;
+    background-color:  #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    border-radius: 15px; 
+  }
+  

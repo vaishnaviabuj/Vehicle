@@ -1,0 +1,22 @@
+.registered-vehicles-table {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  .aa{
+    color: #4caf50;
+  }
+  .vehicles-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .vehicles-table th, .vehicles-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .vehicles-table th {
+    background-color: #f2f2f2;
+  }
+  

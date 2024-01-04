@@ -1,0 +1,38 @@
+/* AssignVehicle.css */
+
+.assign-vehicle-form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    background-color: #f9f9f9;
+  }
+  
+  .assign-vehicle-form h2 {
+    margin-bottom: 20px;
+  }
+  
+  .assign-vehicle-form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .assign-vehicle-form select,
+  .assign-vehicle-form button {
+    width: calc(100% - 20px);
+    padding: 8px;
+    margin-top: 4px;
+    margin-bottom: 12px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .assign-vehicle-form button {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+  }
+  
